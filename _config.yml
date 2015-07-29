@@ -1,22 +1,20 @@
 title:            Site Title
 description:      Describe your website here.
-disqus_shortname: hpstrtheme
+disqus_shortname: bluesea
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url:https://bluesea.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Bluesea
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "默默无闻者"
+  email:          903894198@qq.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  github:https://github.com/bluesea         
   stackexchange:  
   linkedin:       
   instagram:      
