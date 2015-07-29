@@ -5,7 +5,7 @@ reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:https://bluesea.github.io
+url:            https://bluesea.github.io
 
 # Owner/author information
 owner:
@@ -14,7 +14,7 @@ owner:
   bio:            "默默无闻者"
   email:          903894198@qq.com
   # Social networking links used in footer. Update and remove as you like.
-  github:https://github.com/bluesea         
+  github:         https://github.com/bluesea         
   stackexchange:  
   linkedin:       
   instagram:      
