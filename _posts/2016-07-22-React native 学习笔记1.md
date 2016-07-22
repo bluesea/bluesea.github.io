@@ -1,3 +1,10 @@
+---
+layout: post
+title: react-native 笔记1
+comments: true
+category: React Native
+---
+
 React Native
 
 * 声明样式:

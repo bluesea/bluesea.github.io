@@ -1,3 +1,10 @@
+---
+layout: post
+title: react-native 基础控件
+comments: true
+category: React Native
+---
+
 react-native 基础控件
 1、ActivityIndicator
 		
