@@ -200,7 +200,32 @@
 
     <!-- banner -->
     <section class="banner" id="banner">
-        <img src="images/banner1.jpg" alt="" srcset="">
+        <!-- <img src="images/banner1.jpg" alt="" srcset="">
+         -->
+        <ul id="carousel_list" class="carousel_list">
+            <li>
+                <img src="images/banner1.jpg" alt="">
+            </li>
+            <li>
+                <img src="images/banner2.jpg" alt="">
+            </li>
+            <li>
+                <img src="images/banner3.jpg" alt="">
+            </li>
+            <li>
+                <img src="images/banner4.jpg" alt="">
+            </li>
+            <li>
+                <img src="images/banner5.jpg" alt="">
+            </li>
+        </ul>
+        <ol class="circles" id="circle_ol">
+            <li data-n="0" class="current"></li>
+            <li data-n="1"></li>
+            <li data-n="2"></li>
+            <li data-n="3"></li>
+            <li data-n="4"></li>
+        </ol>
         <div class="center-wrap">
             <a href="javascript:;" id="left_btn" class="leftbtn"></a>
             <a href="javascript:;" id="right_btn" class="rightbtn"></a>
@@ -599,6 +624,12 @@
             </nav>
         </div>
     </section>
+
+
+    <script src="js/carousel.js"></script>
+    <script src="js/menu.js"></script>
+
+
 
     <!-- 热门广告 -->
     <section class="hot-ads clearfix">
@@ -1064,8 +1095,8 @@
             </div>
         </div>
     </footer>
-     <!-- 返回顶部按钮 -->
-     <a href="javascript:;" class="backtotop" id="backtotop">
+    <!-- 返回顶部按钮 -->
+    <a href="javascript:;" class="backtotop" id="backtotop">
         返回<br>顶部
     </a>
 </body>
