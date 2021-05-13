@@ -990,11 +990,15 @@ footer .part1 dl.ccsx::before {
 footer .part1 dl.axph::before {
     background-position: -150px -31px;
 }
+footer .part2 {
+    height: 225px;
+    background-color: #1C1F21;
+}
 footer .part2 .r1 {
     padding-top: 48px;
     color: white;
 }
-footer .part2 h2{
+footer .part2 .r1 h2{
     font-size: 46px;
     float: left;
 }
@@ -1030,7 +1034,25 @@ footer .copyright {
 footer .copyright a {
     color: white;
 }
-
+footer .part2 .r1 .slogan {
+    float: left;
+    width: 532px;
+    font-size: 14px;
+    margin-left: 21px;
+    position: relative;
+    top: 14px;
+}
+footer .part2 .links {
+    padding-top: 30px;
+}
+footer .part2 .links li {
+    float: left;
+    border-right: 1px solid white;
+    padding: 0 10px;
+    font-size: 14px;
+    line-height: 14px;
+    height: 14px;
+}
 .backtotop {
     position: fixed;
     bottom: 80px;
